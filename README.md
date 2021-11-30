@@ -41,9 +41,10 @@
 	  
 	  pip install --upgrade setuptools pip
 
-
+### Библиотеки.
 Данный набор библиотек тестировался на Python 3.9-3.10
- Важно устанавливать на Python 3 через pip3
+ 
+Важно устанавливать на Python 3 через pip3
 	 
 	  pip3 install selenium
 	 
@@ -54,7 +55,10 @@
 	  pip3 install googletrans==3.1.0a0
 	 
 	  pip3 install PyTelegramBotApi
+	  
 
+### Возможные ошибки.
+	  
 Если возникнет ошибка с телеграм бот API убедись нет ли у тебя сторонней библеотеки для работы с телеграмом и введи следующие
 
 	  
