@@ -74,7 +74,7 @@
 3. Наличие всех API ключей 
 	
 4. Соотвествия версий браузера Хром и Хром драйвера.
-  [API pyowm](!https://ibb.co/qBk2jzX)
+  ![Хром версии](https://github.com/ViRonin/Alisa_bot/blob/main/chrome%20seting%202.PNG)
 	
 	
 ## Пост скриптум.
