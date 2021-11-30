@@ -79,6 +79,7 @@
 	
 5. Указать Admin = Ваш телеграм ID
   ![ID](https://github.com/ViRonin/Alisa_bot/blob/main/telegram%20id.PNG)
+6. Установить версию бмблиотеки `pip3 install googletrans==3.1.0a0`
 	
 	
 ## Пост скриптум.
