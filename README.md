@@ -21,7 +21,7 @@
 
 Скачать [Хром браузер](https://www.google.com/intl/uk_ua/chrome/) и [Вебдрайвер хром](https://chromedriver.chromium.org/downloads)
 	  
-Получить [API pyowm](https://openweathermap.org/api/one-call-api)
+Получить [API pyowm](https://openweathermap.org/api/one-call-api) он бесплатный и относительно точный. 
 	  
 Установить все библиотеки указаные ниже.
  	  	  
