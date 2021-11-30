@@ -77,6 +77,9 @@
 4. Соотвествия версий браузера Хром и Хром драйвера.
   ![Хром версии](https://github.com/ViRonin/Alisa_bot/blob/main/chrome%20seting%202.PNG)
 	
+5. Указать Admin = Ваш телеграм ID
+  ![ID](https://github.com/ViRonin/Alisa_bot/blob/main/telegram%20id.PNG)
+	
 	
 ## Пост скриптум.
 
