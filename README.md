@@ -71,7 +71,8 @@
 
 2. Правильность расположения путей файлов.
 	
-3. Наличие всех API ключей 
+3. Наличие a)Telegram token b)API ключа pyowm  
+   ![pyowm](https://github.com/ViRonin/Alisa_bot/blob/main/pyowm%20api.PNG) 
 	
 4. Соотвествия версий браузера Хром и Хром драйвера.
   ![Хром версии](https://github.com/ViRonin/Alisa_bot/blob/main/chrome%20seting%202.PNG)
