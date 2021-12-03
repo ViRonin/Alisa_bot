@@ -71,7 +71,7 @@
 
 2. Правильность расположения путей файлов.
 	
-3. Наличие a)Telegram token b)API ключа pyowm  
+3. Наличие a)Telegram token b)API ключа [pyowm](https://openweathermap.org) 
    ![pyowm](https://github.com/ViRonin/Alisa_bot/blob/main/pyowm%20api.PNG) 
 	
 4. Соответствия версий браузера Хром и Хром драйвера.
